@@ -22,15 +22,11 @@ This project is a simple stopwatch web application built using HTML, CSS, and Ja
 
 ## Usage
 
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/imaadiiii/PRODIGY_WD_02.git
-    ```
-2. **Navigate to the project directory**:
+1. **Navigate to the project directory**:
     ```sh
     cd stopwatch-app
     ```
-3. **Open `index.html` in your web browser**:
+2. **Open `index.html` in your web browser**:
     ```sh
     open index.html
     ```
